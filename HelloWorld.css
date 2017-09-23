@@ -1,0 +1,36 @@
+body
+{
+	background:#999;
+	font-family:arial;
+}
+h1, h2, li
+{
+	color:#666;
+}
+a
+{
+	color:#111
+}
+p
+{
+	background:#50;
+	color: white;
+
+	padding: All;
+	padding: topBottom, leftRight;
+	padding: topPadding, rightPadding, bottomPadding, leftPadding;
+	padding: 20px 10px;
+}
+
+.secondary
+{
+	background:none;
+	color:green;
+	padding: 50, 50, 50, 50;
+}
+#special
+{
+	background:#444;
+	color:blue;
+	padding: 100;
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+		<link href="HelloWorld.css" rel="stylesheet" type="text/css"/>
+	</head>
+	
+	<body>
+		<p>
+			This is a new file.
+		</p>
+		<p class="secondary">
+			This is a new file.
+		</p>
+		<p class="secondary">
+			This is a new file.
+		</p>
+		<p id="special">
+			Only one of ID per page.
+		</p>
+
+		<ol>
+			<li class="secondary">
+				<a href="Edward_HelloWorld.html">Home</a>
+			</li>		
+			<li>
+				<a href="https://www.youtube.com/watch?v=gBi8Obib0tw">Video</a>
+			</li>
+		</ol>
+
+		<h1>
+			Cool
+		</h1>
+		<h2>
+			Nice
+		</h2>
+	</body>
+</html>
