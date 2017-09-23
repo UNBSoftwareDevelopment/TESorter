@@ -9,7 +9,7 @@
 		<h1>UNB Technical Elective Courses</h1>
 		
 		<ul>
-			<li><a href="WebHTML.html">HOME</a></li>
+			<li><a href="WebHome.html">HOME</a></li>
 			<li>ECE</li>
 			<li><a href="WebSWE.html">SWE</a></li>
 			
